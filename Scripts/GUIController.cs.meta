@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b0773ac27fb0b0640a9440467b6aa08a
+timeCreated: 1520685141
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score: {instanceID: 0}
+  - hiScore: {instanceID: 0}
+  - lives: {instanceID: 0}
+  - level: {instanceID: 0}
+  - redBlock: {instanceID: 0}
+  - blueBlock: {instanceID: 0}
+  - yellowBlock: {instanceID: 0}
+  - pointAwarded: {instanceID: 0}
+  - blockTooHard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
